@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6b2c2c8f714595bb51b8d4d6",
+  "owner": "wfcywcta",
+  "repo": "page-58cd4ebaa7618dd661b3f1ce",
+  "title": "零卡",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "58cd4ebaa7618dd661b3f1ce",
+      "a": "零卡",
+      "b": "稳定全球clash加速器",
+      "entity": "零卡",
+      "brand": "零卡",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1abb9caf448a8b3f52db32cf1a5201199ac458857395437cb4333f97426c6ec0",
+      "content": {
+        "primary_entity": "零卡",
+        "keyword1": "零卡",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并按订阅配置接入零卡节点。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置零卡订阅",
+          "AI_DESCRIPTION": "，零卡为不同规模的使用场景提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 到 1000GB 流量、3 台到 20 台设备同时在线，并配有普通线路、IPLC 专线及 VIP 高带宽节点池。选择时先确认常用设备数量与月流量需求，再按客户端文档配置订阅即可。",
+          "AI_FEATURES_INTRO": "从套餐差异出发，梳理设备数量、流量额度与订阅周期三个实际选择点。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备，按家庭或个人常用终端数量对应选择。",
+          "AI_FEATURE_TEXT_2": "流量从每月 100GB 起步，旗舰版 300GB，团队版 1000GB，重度流媒体或远程办公优先考虑大流量档。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用可优先按年订阅。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "流量档位",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按选择套餐、核对适配要求、导入订阅三步完成配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "零卡提供基础版、旗舰版与团队版三档订阅，月付与年付可选，分别覆盖 3 台、5 台与 20 台设备同时在线，流量从每月 100GB 到 1000GB，并搭配普通线路、IPLC 专线与 VIP 高带宽节点，满足浏览、流媒体与团队协作等场景。",
+          "AI_HERO_SUBTITLE": "零卡多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付年付灵活，年付更省",
+          "AI_HIGHLIGHT_3": "普通线路与 IPLC 专线可选",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备数与流量需求对照选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量需求，在基础版、旗舰版、团队版之间确定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认操作系统、客户端类型与同时在线设备数是否符合。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档完成订阅导入，即可在设备上加载零卡节点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "零卡订阅选择指南",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备，适合个人日常浏览和轻度视频。按年付仅需 ¥150/年，比月付节省约两个月费用。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线游戏加速优化和全节点流媒体解锁，适合游戏玩家和追剧用户使用。",
+          "AI_FAQ_ANSWER_3": "零卡支持 3 台至 20 台设备同时在线，具体数量取决于所选套餐。同一时间超出套餐设备数可能无法连接，可在客户端中管理已登录设备。",
+          "AI_FAQ_ANSWER_4": "按年付相当于支付 10 个月费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用选年付更划算。",
+          "AI_FAQ_ANSWER_5": "订阅地址生成后，在对应客户端中导入即可使用。具体导入方式可参考所选用客户端的说明文档，多数客户端支持链接导入和扫码导入两种方式。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "零卡基础版适合哪些用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版有什么区别？",
+          "AI_FAQ_QUESTION_3": "套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "按年付划算还是按月付划算？",
+          "AI_FAQ_QUESTION_5": "订阅地址怎么导入到客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4sxph4yhxqp.com",
+    "host": "xn--9kqy4sxph4yhxqp.com"
+  },
+  "file_hashes": {
+    "index.html": "0fb873b9944e81f140d8de64f6f7140076d96ff66507f54ecec22816c8fa002e",
+    "sitemap.xml": "f27868c4401d61bf135fd774d61e9114e048f12ce328d9f51c61d8da2d70395b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "283047bb39238cd065d750cadbefdcb6f8244bf92e7fdeb55dedd1f55ddd7971",
+    "robots.txt": "48a5c1378ea146c53c8928a03d076a0b2512ecc667ca581e38e069baf904c17c",
+    "ab4b085f23c8b72a15c23b360e70d296.txt": "18dee05f3e74298df5e1da24a229a6a2785f1da8773b3d5f5f1e2a1f6d432cb3"
+  },
+  "revision": "4add65b40b1f7ffc19103a5dd5c9f377ad19f13cb61e0421b1a228c64142f0ee"
+}
